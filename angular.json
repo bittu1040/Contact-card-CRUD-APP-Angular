@@ -24,9 +24,13 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@fortawesome/fontawesome-free/css/all.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [ 
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "crud-app"
+    }
+  },
+  "defaultProject": "crud-app",
+  "cli": {
+    "analytics": "650abb45-5eda-4315-aa68-408751eb1761"
+  }
 }

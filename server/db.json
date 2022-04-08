@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Bittu1",
+      "company": "Siemens",
+      "email": "bittu@gmail.com",
+      "title": "Software Engineer",
+      "mobile": "12356789",
+      "photo": "https://www.kindpng.com/picc/m/52-525985_transparent-unknown-person-png-unknown-icon-png-download.png",
+      "groupId": "3"
+    },
+    {
+      "id": "2",
+      "name": "rajan",
+      "company": "HCL",
+      "email": "rajan@gmail.com",
+      "title": "System Engineer",
+      "mobile": "1234",
+      "photo": "https://www.kindpng.com/picc/m/52-525985_transparent-unknown-person-png-unknown-icon-png-download.png",
+      "groupId": "2"
+    },
+    {
+      "id": "4",
+      "name": "Vivek",
+      "company": "TCS",
+      "email": "vivek@gmail.com",
+      "title": "manager",
+      "mobile": "123456",
+      "photo": "https://www.kindpng.com/picc/m/52-525985_transparent-unknown-person-png-unknown-icon-png-download.png",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
